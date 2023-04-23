@@ -32,7 +32,7 @@ font-face
 
 ```
 @font-face {
-    font-family: 'Binggrae Melona';
+    font-family: 'Binggrae Taom';
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -42,7 +42,7 @@ font-face
          url('https://cdn.jsdelivr.net/gh/fonts-archive/BinggraeTaom/BinggraeTaom-Regular.ttf') format('truetype');
 }
 @font-face {
-    font-family: 'Binggrae Melona';
+    font-family: 'Binggrae Taom';
     font-weight: 700;
     font-style: normal;
     font-display: swap;
