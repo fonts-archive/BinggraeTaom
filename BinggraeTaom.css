@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Binggrae Taom';
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/BinggraeTaom/BinggraeTaom-Regular.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/BinggraeTaom/BinggraeTaom-Regular.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/BinggraeTaom/BinggraeTaom-Regular.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/BinggraeTaom/BinggraeTaom-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Binggrae Taom';
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/BinggraeTaom/BinggraeTaom-Bold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/BinggraeTaom/BinggraeTaom-Bold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/BinggraeTaom/BinggraeTaom-Bold.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/BinggraeTaom/BinggraeTaom-Bold.ttf') format('truetype');
+}
